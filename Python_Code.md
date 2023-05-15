@@ -23,7 +23,7 @@ import matplotlib.pyplot as plt
 ```python
 #Load data
 
-df_car = pd.read_csv('D:/Mahdieh_CourseUniversity/University_courses/ALY6020/Module_2/Project/car.csv')
+df_car = pd.read_csv('D:/Project/car.csv')
 
 ```
 
